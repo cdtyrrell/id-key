@@ -1,4 +1,4 @@
-# ID key
+# Taxonomic Identification Key with Bayes' Rule
 Files and script demonstrating continuous character identifications.
 
 For more infromation visit: https://doi.org/10.1002/aps3.1247
